@@ -1,0 +1,1 @@
+# Go VI (Estructuras/Interfaces)
